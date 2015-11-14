@@ -12,7 +12,7 @@
 
   <remote  name="mo"
            revision="mm-6.0"
-           fetch="https://github.com/MinimalOS-AOSP/" />
+           fetch="https://github.com/RoarOS/" />
            
   <remote  name="github"
            fetch="https://github.com/" />
